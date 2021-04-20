@@ -1,5 +1,4 @@
 const auth = firebase.auth();
-console.log("adfa");
 const whenSignedIn = document.getElementById("whenSignedIn");
 const whenSignedOut = document.getElementById("whenSignedOut");
 const signInBtn = document.getElementById("signInBtn");
